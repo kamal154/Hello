@@ -1,0 +1,6 @@
+D:\Hello\Hello\Hello\Hello\bin\Hello.dll.config
+D:\Hello\Hello\Hello\Hello\bin\Hello.dll
+D:\Hello\Hello\Hello\Hello\bin\Hello.pdb
+D:\Hello\Hello\Hello\Hello\obj\Debug\Hello.csprojResolveAssemblyReference.cache
+D:\Hello\Hello\Hello\Hello\obj\Debug\Hello.dll
+D:\Hello\Hello\Hello\Hello\obj\Debug\Hello.pdb
